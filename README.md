@@ -74,7 +74,7 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ## License
 
-IT IS FREE USE IT AS PER YOUR REQUIREMENT
+This project is licensed under the MIT License.
 
 ## Author
 
