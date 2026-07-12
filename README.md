@@ -1,8 +1,8 @@
-# Student Record System (SRS) - Mini Project
+# Student Metrics Portal (SMP) - Mini Project
 
 ## Description
 
-The **Student Record System** aka Student Management System is a Java-based application designed to manage and track student records, including attendance, courses, fees, and report generation. This project includes the main code, SQL setup files, and dependencies, providing a complete solution for easy setup and usage.
+The **Student Metrics Portal** aka comprehensive academic data portal for Students is a Java-based application designed to manage and track student records, including attendance, courses, fees, and report generation. This project includes the main code, SQL setup files, and dependencies, providing a complete solution for easy setup and usage.
 
 ## Project Structure
 
@@ -63,8 +63,8 @@ After setting up the database and adding the necessary JAR files, you can start 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/thisisAtharv/Student-Record-System.git
-   cd Student-Record-System
+   git clone https://github.com/thisisAtharv/Student-Metrics-Portal.git
+   cd Student-Metrics-Portal
 2. **Compile the Project**: Ensure your Java IDE is set up to recognize all necessary libraries and dependencies before running the project.
 3. **Run the Program**: Launch the application to access the admin login page, which provides access to the main dashboard and other tabs. Explore each tab to manage student data, track attendance, manage courses, and generate reports.  
 
